@@ -38329,3 +38329,22 @@ body.elementor-page-5284
     margin-top: 60px;
   }
 }
+.custom-css-style
+  .elementor-element.elementor-element-8678df2
+  .portfolio-timeline-vertical-content-wrapper
+  .timeline
+  .swiper-button-next,
+.portfolio-timeline-vertical-content-wrapper .timeline .swiper-button-prev,
+.custom-css-style
+  .elementor-element.elementor-element-43139f9
+  .portfolio-timeline-vertical-content-wrapper
+  .timeline
+  .swiper-button-next,
+.portfolio-timeline-vertical-content-wrapper .timeline .swiper-button-prev,
+.custom-css-style
+  .elementor-element.elementor-element-43139f9
+  .portfolio-timeline-vertical-content-wrapper
+  .timeline
+  .swiper-pagination {
+  display: none;
+}
