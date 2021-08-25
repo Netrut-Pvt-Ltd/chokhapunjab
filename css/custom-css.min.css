@@ -9496,6 +9496,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-8af6019 {
     .custom-css-style
     .elementor-element.elementor-element-8af6019 {
     left: 25%;
+    display: none;
   }
   body.rtl .custom-css-style .elementor-element.elementor-element-8af6019 {
     right: 25%;
