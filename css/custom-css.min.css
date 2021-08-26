@@ -19446,7 +19446,8 @@ body.rtl .custom-css-style .elementor-element.elementor-element-a6394cf {
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #000;
-  background-image: url(../img/slider-home-page.jpg);
+  /* background-image: url(../img/slider-home-page.jpg); */
+  background-image: url(../img/home-slider.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
