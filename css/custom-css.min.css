@@ -8483,7 +8483,8 @@ body.elementor-page-3549
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #000;
-  background-image: url(../img/slider1.png);
+  /* background-image: url(../img/slider1.png); */
+  background-image: url(../img/slider1.webp);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -19448,7 +19449,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-a6394cf {
   background-color: #000;
   /* background-image: url(../img/slider-home-page.jpg); */
   /* background-image: url(../img/home-slider1.jpg); */
-  background-image: url(../img/home-slider1.webp);
+  background-image: url(../img/slider1.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
