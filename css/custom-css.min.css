@@ -1122,11 +1122,11 @@
   .elementor-element.elementor-element-6f23744
   .elementor-image
   img {
-  width: 130px;
+  width: 206px;
 }
 .custom-css-style .elementor-element.elementor-element-6f23744 {
   z-index: 3;
-  top: 20px;
+  /* top: 20px; */
 }
 body:not(.rtl) .custom-css-style .elementor-element.elementor-element-6f23744 {
   left: 0;
@@ -19456,7 +19456,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-a6394cf {
   .elementor-element.elementor-element-c48c6d7
   > .elementor-background-overlay {
   background-color: #000;
-  opacity: 0.3;
+  opacity: 0.6;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .custom-css-style .elementor-element.elementor-element-c48c6d7 {
