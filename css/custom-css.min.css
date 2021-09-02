@@ -11868,7 +11868,7 @@ body.elementor-page-3954
 .custom-css-style
   .elementor-element.elementor-element-4923803
   > .elementor-background-overlay {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.4);
   opacity: 0.3;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -19457,7 +19457,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-a6394cf {
 .custom-css-style
   .elementor-element.elementor-element-c48c6d7
   > .elementor-background-overlay {
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.4);
   opacity: 0.6;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
