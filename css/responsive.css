@@ -225,6 +225,19 @@
   .woocommerce div.product .woocommerce-product-rating {
     margin-bottom: 0;
   }
+
+  .about_us {
+    display: none;
+  }
+  .about_us_h {
+    margin: 0 0 0 70px !important;
+  }
+  .about_us_p {
+    margin: 0 0 0 70px !important;
+  }
+  .about_us_head {
+    padding-bottom: 50% !important;
+  }
 }
 
 /* 
@@ -1091,6 +1104,18 @@
   }
   .woocommerce div.product form.cart div.quantity {
     margin-bottom: 15px;
+  }
+  .about_us {
+    display: none;
+  }
+  .about_us_h {
+    margin: 0 0 0 70px !important;
+  }
+  .about_us_p {
+    margin: 0 0 0 70px !important;
+  }
+  .about_us_head {
+    padding-bottom: 50% !important;
   }
 }
 
